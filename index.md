@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+![](https://images.unsplash.com/photo-1599658880436-c61792e70672?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
 
-You can use the [editor on GitHub](https://github.com/Araigumedra/MyUniPerformance.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# What is MyUniPerformance?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
