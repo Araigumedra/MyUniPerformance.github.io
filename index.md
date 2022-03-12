@@ -6,10 +6,20 @@ Info about app
 
 
 # The Team
-| ![](https://dogtowndogtraining.com/wp-content/uploads/2012/06/300x300-02.jpg) | ![](https://mylittlefalls.com/wp-content/uploads/2020/05/Raccoon-immature-JoanHerrmann-300x300.jpeg) | ![](https://www.oiseaux.net/photos/samuel.blanc/images/id/manchot.empereur.sabl.2p.jpg) |
-|    :----:   |    :----:   |    :----:     |
-| Armando Leon  |   Emma Hernandez      | Felix Dasta  |
-| INSO   | CIIC        | INSO      |
+![](https://dogtowndogtraining.com/wp-content/uploads/2012/06/300x300-02.jpg)
+
+Armando Leon - INSO
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vulputate venenatis molestie. Pellentesque quis sollicitudin magna. Donec eget pharetra urna, id suscipit ante. Maecenas facilisis sed ligula vitae vestibulum. Integer faucibus, ex vel tristique dictum, mi mi vulputate orci, vitae commodo neque quam imperdiet magna. Nulla pellentesque maximus nibh nec porta. Vivamus ut mauris eros. Proin a fermentum urna. Sed sollicitudin rhoncus turpis, sed aliquam erat placerat vel.
+
+![](https://mylittlefalls.com/wp-content/uploads/2020/05/Raccoon-immature-JoanHerrmann-300x300.jpeg)
+
+Emma Hernandez - CIIC
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vulputate venenatis molestie. Pellentesque quis sollicitudin magna. Donec eget pharetra urna, id suscipit ante. Maecenas facilisis sed ligula vitae vestibulum. Integer faucibus, ex vel tristique dictum, mi mi vulputate orci, vitae commodo neque quam imperdiet magna. Nulla pellentesque maximus nibh nec porta. Vivamus ut mauris eros. Proin a fermentum urna. Sed sollicitudin rhoncus turpis, sed aliquam erat placerat vel.
+
+![](https://www.oiseaux.net/photos/samuel.blanc/images/id/manchot.empereur.sabl.2p.jpg)
+
+Felix Dasta - INSO
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vulputate venenatis molestie. Pellentesque quis sollicitudin magna. Donec eget pharetra urna, id suscipit ante. Maecenas facilisis sed ligula vitae vestibulum. Integer faucibus, ex vel tristique dictum, mi mi vulputate orci, vitae commodo neque quam imperdiet magna. Nulla pellentesque maximus nibh nec porta. Vivamus ut mauris eros. Proin a fermentum urna. Sed sollicitudin rhoncus turpis, sed aliquam erat placerat vel.
 
 
 
