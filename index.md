@@ -6,20 +6,32 @@ Info about app
 
 
 # The Team
-![](https://dogtowndogtraining.com/wp-content/uploads/2012/06/300x300-02.jpg)
+<div align="center">
+ <img src="https://dogtowndogtraining.com/wp-content/uploads/2012/06/300x300-02.jpg">
+ <p>
+  Armando Leon - INSO
+  <br>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vulputate venenatis molestie. 
+ </p>
+</div>
 
-Armando Leon - INSO
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vulputate venenatis molestie. Pellentesque quis sollicitudin magna. Donec eget pharetra urna, id suscipit ante. Maecenas facilisis sed ligula vitae vestibulum. Integer faucibus, ex vel tristique dictum, mi mi vulputate orci, vitae commodo neque quam imperdiet magna. Nulla pellentesque maximus nibh nec porta. Vivamus ut mauris eros. Proin a fermentum urna. Sed sollicitudin rhoncus turpis, sed aliquam erat placerat vel.
-
-![](https://mylittlefalls.com/wp-content/uploads/2020/05/Raccoon-immature-JoanHerrmann-300x300.jpeg)
-
-Emma Hernandez - CIIC
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vulputate venenatis molestie. Pellentesque quis sollicitudin magna. Donec eget pharetra urna, id suscipit ante. Maecenas facilisis sed ligula vitae vestibulum. Integer faucibus, ex vel tristique dictum, mi mi vulputate orci, vitae commodo neque quam imperdiet magna. Nulla pellentesque maximus nibh nec porta. Vivamus ut mauris eros. Proin a fermentum urna. Sed sollicitudin rhoncus turpis, sed aliquam erat placerat vel.
-
-![](https://www.oiseaux.net/photos/samuel.blanc/images/id/manchot.empereur.sabl.2p.jpg)
-
-Felix Dasta - INSO
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vulputate venenatis molestie. Pellentesque quis sollicitudin magna. Donec eget pharetra urna, id suscipit ante. Maecenas facilisis sed ligula vitae vestibulum. Integer faucibus, ex vel tristique dictum, mi mi vulputate orci, vitae commodo neque quam imperdiet magna. Nulla pellentesque maximus nibh nec porta. Vivamus ut mauris eros. Proin a fermentum urna. Sed sollicitudin rhoncus turpis, sed aliquam erat placerat vel.
+<div align="center">
+ <img src="https://mylittlefalls.com/wp-content/uploads/2020/05/Raccoon-immature-JoanHerrmann-300x300.jpeg">
+ <p>
+  Emma Hernandez - CIIC
+  <br>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vulputate venenatis molestie. 
+ </p>
+</div>
+ 
+<div align="center">
+ <img src="https://www.oiseaux.net/photos/samuel.blanc/images/id/manchot.empereur.sabl.2p.jpg">
+ <p>
+  Felix Dasta - INSO
+  <br>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vulputate venenatis molestie. 
+ </p>
+</div>
 
 
 
