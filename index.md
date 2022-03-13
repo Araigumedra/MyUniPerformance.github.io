@@ -25,7 +25,8 @@
   </div>
 </div>
 
-# The Team
+<div class="section-team">
+<h1>The Team</h1>
 <div align="center">
  <img src="https://dogtowndogtraining.com/wp-content/uploads/2012/06/300x300-02.jpg">
  <p>
@@ -52,10 +53,13 @@
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vulputate venenatis molestie. 
  </p>
 </div>
+</div>
 
 
-
-# Documentation
-To get to the nitty gritty feel free to check out our project proposal down below, and our live [website](https://puginarug.com/)!
-<br>
+<div class="section-documentation">
+  <h1>Documentation</h1>
+  <p>To get to the nitty gritty feel free to check out our project proposal down below, and our live <a href="https://puginarug.com/">website</a>!
+  </p>
+  <br>
 <iframe src="Proposal.pdf" width="100%" height="850px" style="align:center"></iframe>
+</div>
