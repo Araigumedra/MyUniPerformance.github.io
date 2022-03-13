@@ -59,5 +59,5 @@
 To get to the nitty gritty feel free to check out our project proposal, and our live [website](https://puginarug.com/)!
 <br>
 <div align="center">
-  <a href="Proposal.pdf">
+  <iframe src="Proposal.pdf"width="100%" height="500px"></iframe>
 </div>
