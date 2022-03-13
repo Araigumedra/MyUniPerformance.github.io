@@ -56,4 +56,8 @@
 
 
 # Documentation
-To get to the nitty gritty feel free to check out our project [proposal](https://www.markdownguide.org), and our live [website](https://puginarug.com/)!
+To get to the nitty gritty feel free to check out our project proposal, and our live [website](https://puginarug.com/)!
+<br>
+<div align="center">
+  <a href="Proposal.pdf">
+</div>
