@@ -56,8 +56,6 @@
 
 
 # Documentation
-To get to the nitty gritty feel free to check out our project proposal, and our live [website](https://puginarug.com/)!
+To get to the nitty gritty feel free to check out our project proposal down below, and our live [website](https://puginarug.com/)!
 <br>
-<div align="center">
-  <iframe src="Proposal.pdf"width="100%" height="500px"></iframe>
-</div>
+<iframe src="Proposal.pdf" width="100%" height="500px" style="align:center"></iframe>
