@@ -58,4 +58,4 @@
 # Documentation
 To get to the nitty gritty feel free to check out our project proposal down below, and our live [website](https://puginarug.com/)!
 <br>
-<iframe src="Proposal.pdf" width="100%" height="500px" style="align:center"></iframe>
+<iframe src="Proposal.pdf" width="100%" height="900px" style="align:center"></iframe>
