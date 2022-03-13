@@ -14,7 +14,7 @@
  <h3> Solution </h3>
 <p>Based on the academic characteristics that our university community requires so that they can be better equipped to have a successful college experience, it was determined that the following features will be necessary for the system-to-be:</p>
 
-<ul class-"solution-features">
+<ul>
  <li> <b>Student curriculum viewer:</b>  Student curriculum is used so that the students can benefit from access to their GPA calculation by semesters or academic year. Through predefined curriculum templates provided by different universities, students will be able to choose the curriculum that corresponds to them so that they can start entering their records. If the university is not in the system, we will allow the student to create the curriculum based on the one provided by their university. However, if the student wishes to benefit from all the app features, by using a form, students will need to notify the administrators of the page which university they wish to add to the system and their corresponding curriculum. While the students are looking at their academic curriculum, they will be able to see the details of the courses from their curriculum.</li>
 
  <li> <b>Course details:</b>  The details of the course will include the syllabus, the professors who have  taught that course and any other relevant information. To clarify, our purpose is to provide constructive criticism, so that the student can learn from the professor's teaching tactics beforehand. The students will be able to see advice from other students in order to succeed in the course.</li>
