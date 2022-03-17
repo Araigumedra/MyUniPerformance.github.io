@@ -32,7 +32,7 @@
  <p>
   <b>Armando Leon - armando.leon@upr.edu</b>
   <br>
-  INSO student interested in learning and practicing more Full Stack Development
+  INSO student interested in learning and practicing more Full Stack development
  </p>
 </div>
 
