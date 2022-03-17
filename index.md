@@ -7,7 +7,7 @@
 <div class="section-problem">
  <div class="section-problem-statement">
   <h3> Problem </h3>
-<p>Some universities don’t have tools to help students to plan their academic life in a better way. Of course, there are numerous free tools that perform tasks such as GPA calculation, but they lack functionality beyond that, such as storing courses that have been taken and displaying them in an organized manner that can allow the user to see their academic progress at a glance. There exist fewer possibilities where the user might be enrolled in a second major, or they might be undertaking a minor degree. These less common situations are not covered by free existing applications. There are also tools to see feedback from professors with whom the students would like to take a class, but these tools often do not provide specific feedback based on a certain course and section. Finally, many students would like to compare their performance relative to that of the peers in their class, to know if they are on the right track throughout their academic career. However, there is no public platform that allows us to extrapolate data anonymously from people that have taken the same courses as the student.</p>
+<p>Some universities don’t have tools to help students plan their academic progress in a better way. Of course, there are numerous free tools that perform tasks such as GPA calculation, but they lack functionality beyond that. There exist fewer possibilities where the user might be enrolled in a second major, or they might be undertaking a minor degree. There are also tools to see feedback from professors with whom the students would like to take a class, but these tools often do not provide specific feedback based on a certain course and section. Finally, many students would like to compare their performance relative to that of the peers in their class, to know if they are on the right track throughout their academic career. However, there is no public platform that allows us to extrapolate data anonymously from people that have taken the same courses as the student.</p>
 </div>
 
  <div class="section-problem-solution">
@@ -15,9 +15,9 @@
 <p>Based on the academic characteristics that our university community requires so that they can be better equipped to have a successful college experience, it was determined that the following features will be necessary for the system-to-be:</p>
 
 <ul>
- <li> <b>Student curriculum viewer:</b>  Student curriculum is used so that the students can benefit from access to their GPA calculation by semesters or academic year. Through predefined curriculum templates provided by different universities, students will be able to choose the curriculum that corresponds to them so that they can start entering their records. If the university is not in the system, we will allow the student to create the curriculum based on the one provided by their university. However, if the student wishes to benefit from all the app features, by using a form, students will need to notify the administrators of the page which university they wish to add to the system and their corresponding curriculum. While the students are looking at their academic curriculum, they will be able to see the details of the courses from their curriculum.</li>
+ <li> <b>Student curriculum viewer:</b>  We will provide the student user with an interactive curriculum element (provided by them or their university) which will have the capability to be sorted across years and semesters. This element will allow the student to view particular information about course sections listed, the educators that teached that section, and simple information about said educators.</li>
 
- <li> <b>Course details:</b>  The details of the course will include the syllabus, the professors who have  taught that course and any other relevant information. To clarify, our purpose is to provide constructive criticism, so that the student can learn from the professor's teaching tactics beforehand. The students will be able to see advice from other students in order to succeed in the course.</li>
+ <li> <b>Course details and feedback:</b>  We will provide the student user with an extensive and informative view of a specific course, which will also contain the overall rating over time (given by the student users) as well as various ways to interpret statistics of said course. These statistics are mostly of a filtering nature (by educator, year, section, grades, etc). Additionally, the student user will be able to give constructive feedback on a particular section in which they will provide both criticisms and praises; this is useful for the student's preparation and the professor's introspecton.</li>
 
  <li> <b>Student performance reviewer:</b> When students get their course grades and enter them into the system, they will be able to compare their performance relative to that of other students in the course anonymously. This will allow them to see if they are on the right track, academically, relative to their classmates. They will be able to evaluate the performance based on different criterias, such as, for example, extrapolating all the historical data anonymously of all the students who have taken that course previously or making a comparison based on the students who took that course in the same semester, since it would adapt more to the circumstances of that moment.</li>
   </ul>
@@ -30,27 +30,27 @@
 <div align="center">
  <img src="https://dogtowndogtraining.com/wp-content/uploads/2012/06/300x300-02.jpg">
  <p>
-  <b>Armando Leon - INSO</b>
+  <b>Armando Leon - armando.leon@upr.edu</b>
   <br>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vulputate venenatis molestie. 
+  INSO student interested in learning and practicing more Full Stack Development
  </p>
 </div>
 
 <div align="center">
- <img src="https://mylittlefalls.com/wp-content/uploads/2020/05/Raccoon-immature-JoanHerrmann-300x300.jpeg">
+ <img src="https://media.discordapp.net/attachments/950936180210434089/954094634357886994/photo_2022-03-15_imported_20220315_103556.jpg?width=300&height=300">
  <p>
-  <b>Emma Hernandez - CIIC</b>
+  <b>Emma Hernandez - emmanuel.hernandez14@upr.edu</b>
   <br>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vulputate venenatis molestie. 
+  CIIC student focused on frontend development and UI design 
  </p>
 </div>
  
 <div align="center">
- <img src="https://www.oiseaux.net/photos/samuel.blanc/images/id/manchot.empereur.sabl.2p.jpg">
+ <img src="https://media.discordapp.net/attachments/950936180210434089/954094218400378961/IMG-20220312-WA0001.jpg?width=300&height=300">
  <p>
-  <b>Felix Dasta - INSO</b>
+  <b>Felix Dasta - felix.dasta@upr.edu</b>
   <br>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vulputate venenatis molestie. 
+  INSO student interested in fullstack development
  </p>
 </div>
 </div>
@@ -58,7 +58,7 @@
 
 <div class="section-documentation">
   <h1>Documentation</h1>
-  <p>To get to the nitty gritty feel free to check out our project proposal down below, and our live <a href="https://puginarug.com/">website</a>!
+  <p>To get to the nitty gritty feel free to check out our project proposal down below: 👇
   </p>
   <br>
 <iframe src="Proposal.pdf" width="100%" height="850px" style="align:center"></iframe>
