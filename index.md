@@ -41,7 +41,7 @@
  <p>
   <b>Emma Hernandez - emmanuel.hernandez14@upr.edu</b>
   <br>
-  CIIC student focused on frontend development and UI design 
+  CIIC student focused on Front End development and UI design 
  </p>
 </div>
  
@@ -50,7 +50,7 @@
  <p>
   <b>Felix Dasta - felix.dasta@upr.edu</b>
   <br>
-  INSO student interested in fullstack development
+  INSO student interested in Full Stack development
  </p>
 </div>
 </div>
@@ -61,5 +61,5 @@
   <p>To get to the nitty gritty feel free to check out our project proposal down below: 👇
   </p>
   <br>
-<iframe src="Progress Report MyUniPerformance.pdf" width="100%" height="850px" style="align:center"></iframe>
+<iframe src="ProgressReportMyUniPerformance.pdf" width="100%" height="850px" style="align:center"></iframe>
 </div>
