@@ -28,7 +28,7 @@
 <div class="section-team">
 <h1>The Team</h1>
 <div align="center">
- <img src="https://dogtowndogtraining.com/wp-content/uploads/2012/06/300x300-02.jpg">
+ <img src="https://media.discordapp.net/attachments/819389567538954244/974417585338712065/IMG-20220512-WA0011.jpg?width=300&height=300">
  <p>
   <b>Armando Leon - armando.leon@upr.edu</b>
   <br>
