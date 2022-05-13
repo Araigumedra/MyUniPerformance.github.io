@@ -58,11 +58,16 @@
 
 <div class="section-documentation">
   <h1>Documentation</h1>
-  <p>To get to the nitty gritty feel free to check out our project proposal and pitch video down below: 👇
+  <p>To get to the nitty gritty feel free to check out our project proposal and project presentation down below: 👇
   </p>
   <br>
 <iframe src="ProgressReportMyUniPerformance.pdf" width="100%" height="850px" style="align:center"></iframe>
  <br>
+ <iframe src="CapstoneFinalPresentation.pptx" width="100%" height="550px" style="align:center"></iframe>
+ <br>
+   <h1>Demo</h1>
+  <p>To get a better understanding of the possibilities, check out our demo video: 👇
+  </p>
+  <br>
 <iframe src="MyUniPerformance Pitch Video-(1080p).mp4" width="100%" height="550" style="align:center" allowfullscreen></iframe>
-</html>
 </div>
